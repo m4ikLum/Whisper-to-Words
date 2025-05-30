@@ -9,4 +9,4 @@ Note: unzip the following before use
    1) Assets/Undertone/Plugins/Windows/x64/onnxruntime_providers_cuda.dll.zip
    2) Assets/Undertone/Plugins/iOS/libonnxruntime.a.zip
 
-The final report details documentation of the project as well as our findings after rounds of testing. 
+The report details documentation of the project as well as our findings after rounds of testing. 
